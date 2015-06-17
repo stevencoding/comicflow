@@ -1,0 +1,1 @@
+This project is now hosted on [GitHub](https://github.com/swisspol/Cooliris-ToolKit).
